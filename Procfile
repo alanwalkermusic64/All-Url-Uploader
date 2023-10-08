@@ -1,1 +1,1 @@
-worker: python3 bot.py
+Eco: python3 bot.py
